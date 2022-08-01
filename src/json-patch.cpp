@@ -1,7 +1,7 @@
 #include "json-patch.hpp"
 
 #include <nlohmann/json-schema.hpp>
-
+using namespace nlohmann;
 namespace
 {
 
